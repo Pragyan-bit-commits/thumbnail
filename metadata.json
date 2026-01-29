@@ -1,0 +1,7 @@
+{
+  "name": "Thumbnail Genius AI",
+  "description": "Professional YouTube Thumbnail Design AI that generates high-CTR concepts and visual mockups based on viral growth strategies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
